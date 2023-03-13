@@ -12,18 +12,31 @@ let secondCard = false;
 
 //Items array
 const items = [
-  { name: "bee", image: "bee.png" },
-  { name: "crocodile", image: "crocodile.png" },
-  { name: "macaw", image: "macaw.png" },
-  { name: "gorilla", image: "gorilla.png" },
-  { name: "tiger", image: "tiger.png" },
-  { name: "monkey", image: "monkey.png" },
-  { name: "chameleon", image: "chameleon.png" },
-  { name: "piranha", image: "piranha.png" },
-  { name: "anaconda", image: "anaconda.png" },
-  { name: "sloth", image: "sloth.png" },
-  { name: "cockatoo", image: "cockatoo.png" },
-  { name: "toucan", image: "toucan.png" },
+  // { name: "bee", image: "bee.png" },
+  // { name: "crocodile", image: "crocodile.png" },
+  // { name: "macaw", image: "macaw.png" },
+  // { name: "gorilla", image: "gorilla.png" },
+  // { name: "tiger", image: "tiger.png" },
+  // { name: "monkey", image: "monkey.png" },
+  // { name: "chameleon", image: "chameleon.png" },
+  // { name: "piranha", image: "piranha.png" },
+  // { name: "anaconda", image: "anaconda.png" },
+  // { name: "sloth", image: "sloth.png" },
+  // { name: "cockatoo", image: "cockatoo.png" },
+  // { name: "toucan", image: "toucan.png" },
+
+  { name: "TCH", image: "album-covers/THC.png" },
+  { name: "GSP", image: "album-covers/GSP.png" },
+  { name: "Corduroy", image: "album-covers/Corduroy.png" },
+  { name: "Globe", image: "album-covers/Globe.png" },
+  { name: "HITH", image: "album-covers/HITH.png" },
+  { name: "Huck", image: "album-covers/Huck.png" },
+  { name: "KSI", image: "album-covers/KSI.png" },
+  { name: "SWAH", image: "album-covers/SWAH.png" },
+  { name: "Throttle", image: "album-covers/Throttle.png" },
+  { name: "Unsigned", image: "album-covers/Unsigned.png" },
+  { name: "Woozy", image: "album-covers/Woozy.png" },
+  { name: "WYWS", image: "album-covers/WYWS.png" },
 ];
 
 //Initial Time
